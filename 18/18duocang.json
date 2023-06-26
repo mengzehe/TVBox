@@ -6,9 +6,9 @@
 
 {"storeHouse": 
 [ 
-{"sourceName":"自用成人仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/18/18cangku.json"},
-{"sourceName":"喵公子仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
-{"sourceName":"大烟管18+","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
-{"sourceName":"大烟管18+","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"}
+{"sourceName":"自用成人仓"，"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93"}，
+{"sourceName":"喵公子仓"，"sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"}，
+{"sourceName":"大烟管18+"，"sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"}，
+{"sourceName":"大烟管18+"，"sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"}
 ] 
 }
